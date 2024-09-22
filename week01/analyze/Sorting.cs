@@ -1,4 +1,4 @@
-﻿public static class Sorting {
+﻿ public static class Sorting {
     public static void Run() {
         var numbers = new[] { 3, 2, 1, 6, 4, 9, 8 };
         SortArray(numbers);
